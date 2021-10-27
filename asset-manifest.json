@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lilpickle/static/css/main.a634526f.chunk.css",
+    "main.js": "/lilpickle/static/js/main.f81abe76.chunk.js",
+    "main.js.map": "/lilpickle/static/js/main.f81abe76.chunk.js.map",
+    "runtime-main.js": "/lilpickle/static/js/runtime-main.87ac3b50.js",
+    "runtime-main.js.map": "/lilpickle/static/js/runtime-main.87ac3b50.js.map",
+    "static/js/2.6f37df21.chunk.js": "/lilpickle/static/js/2.6f37df21.chunk.js",
+    "static/js/2.6f37df21.chunk.js.map": "/lilpickle/static/js/2.6f37df21.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/lilpickle/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/lilpickle/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/lilpickle/index.html",
+    "static/css/main.a634526f.chunk.css.map": "/lilpickle/static/css/main.a634526f.chunk.css.map",
+    "static/js/2.6f37df21.chunk.js.LICENSE.txt": "/lilpickle/static/js/2.6f37df21.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/lilpickle/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ac3b50.js",
+    "static/js/2.6f37df21.chunk.js",
+    "static/css/main.a634526f.chunk.css",
+    "static/js/main.f81abe76.chunk.js"
+  ]
+}
